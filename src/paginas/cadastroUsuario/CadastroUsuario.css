@@ -1,0 +1,30 @@
+.background{
+    background-color: #fafacc;
+}
+
+
+.imagem2{
+    background-image: url(https://i.pinimg.com/736x/0b/49/32/0b49325280ec46bf83180139a3a0f6c6.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.textos2{
+    font-weight: bold !important;
+    color: black;
+}
+
+.btnCancelar{
+    margin-right: 20px !important;
+    color: rgb(246, 235, 235) !important;
+    background-color: black !important;
+
+}
+
+.btnCadastrar{
+color: rgb(246, 235, 235) !important;
+background-color: black !important;
+}

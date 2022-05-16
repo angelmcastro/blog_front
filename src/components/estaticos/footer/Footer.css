@@ -1,0 +1,22 @@
+.box1{
+    background-color: #2d345d !important; 
+    height: 120px;
+}
+
+.box2{
+    background-color: #2d397b !important; 
+    height: 60px;
+}
+
+.redes{
+    font-size: 60px !important;
+    color: white;
+}
+
+.textosRedes{
+    color: white;
+}
+
+.textosCopy{
+    color: white !important;
+}
